@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Eric
+- 👀 I’m interested in Software Development opportunities.
+- 🌱 I’m currently learning Cloud Computing and Front-End Development.
+- 💞️ I’m looking to collaborate on projects that can help me further my skills.
+- 📫 How to reach me @thomaseric9852@protonmail.com' 
