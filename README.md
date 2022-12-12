@@ -6,7 +6,7 @@
 
 <h2>📃 Certifications</h2>
 
-- Active Directory Home Lab</h2>
+- CompTIA Security +</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
