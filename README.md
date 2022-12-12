@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eric! <br/><a href="https://github.com/samohtsu">Programmer </a>, <a href="https://www.linkedin.com/in/ericthomas98/">Cybersecurity Professional</a>
+<h1>Hi, I'm Eric! <br/><a href="https://github.com/samohtsu">Programmer , <a href="https://www.linkedin.com/in/ericthomas98/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -6,7 +6,7 @@
 
 <h2>📃 Certifications</h2>
 
-- CompTIA Security +<a href="https://github.com/ericthomas98/Samohtsu/blob/main/Security%2B%20Card%20.pdf"></h2>
+- CompTIA Security +<a href="https://github.com/ericthomas98/Samohtsu/blob/main/Security%2B%20Card%20.pdf"></a></h2>
 
 <h2> 🤳 Connect with me:</h2>
 
