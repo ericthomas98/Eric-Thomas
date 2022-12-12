@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- Active Directory Home Lab</h2>
+- [Trivia Game](https://github.com/ericthomas98/Undergraduate-Coursework/tree/main/Java/Trivia_Game)
 
 <h2>📃 Certifications</h2>
 
 - [CompTIA Security +](https://github.com/ericthomas98/Samohtsu/blob/main/Security%2B%20Card%20.pdf) 
-
+- AWS Cloud Practitioner (Expected January 2023)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="EricThomas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
