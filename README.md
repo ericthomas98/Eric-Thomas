@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/samohtsu">Programmer</a>, <a href="https://www.linkedin.com/in/ericthomas98/">Jr. Software Developer Professional</a>
+<h1>Hi, I'm Eric! <br/><a href="https://github.com/samohtsu">Programmer</a>, <a href="https://www.linkedin.com/in/ericthomas98/">Jr. Software Developer Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -25,7 +25,7 @@
 [linkedin]: www.linkedin.com/in/ericthomas98
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**samohtsu/samohtsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
