@@ -4,6 +4,8 @@
 
 - [Active Directory Home Lab]</h2>
 
+<h2>Certifications</h2>
+- Security +
   
 <h2> 🤳 Connect with me:</h2>
 
