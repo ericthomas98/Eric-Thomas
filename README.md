@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eric! <br/><a href="https://github.com/samohtsu">Programmer</a>, <a href="https://www.linkedin.com/in/ericthomas98/">Jr. Software Developer Professional</a>
+<h1>Hi, I'm Eric! <br/><a href="https://github.com/samohtsu">Programmer</a>, <a href="https://www.linkedin.com/in/ericthomas98/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
