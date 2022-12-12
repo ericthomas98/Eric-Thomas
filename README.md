@@ -6,8 +6,7 @@
 
 <h2>📃 Certifications</h2>
 
-- CompTIA Security +<a href="https://github.com/ericthomas98/Samohtsu/blob/main/Security%2B%20Card%20.pdf"></a></h2>
-
+  - CompTIA Security +<a href="[https://www.linkedin.com/in/ericthomas98/](https://github.com/ericthomas98/Samohtsu/blob/main/Security%2B%20Card%20.pdf)">Cybersecurity Professional</a>
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="EricThomas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
