@@ -6,7 +6,7 @@
 
 <h2>📃 Certifications</h2>
 
-- CompTIA Security +<a href="https://github.com/samohtsu/"></h2>
+- CompTIA Security +<a href="https://github.com/ericthomas98/Samohtsu/blob/main/Security%2B%20Card%20.pdf"></h2>
 
 <h2> 🤳 Connect with me:</h2>
 
