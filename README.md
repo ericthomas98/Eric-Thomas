@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eric! <a href="https://www.linkedin.com/in/ericthomas98/">Aspiring DevSecOps Engineer </a></h1>
+<h1>Hi, I'm Eric! <a href="https://www.linkedin.com/in/ericthomas98/">Aspiring DevOps Engineer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
