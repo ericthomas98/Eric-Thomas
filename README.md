@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- [Trivia Game](https://github.com/ericthomas98/Undergraduate-Coursework/tree/main/Java/Trivia_Game)
+- [Trivia Game](https://github.com/ericthomas98/Undergraduate-Coursework/tree/main/Java/TriviaGame)
 
 <h2>📃 Certifications</h2>
 
