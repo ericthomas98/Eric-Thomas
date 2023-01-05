@@ -8,7 +8,10 @@
 <h2>📃 Certifications</h2>
 
 - [CompTIA Security +](https://github.com/ericthomas98/Samohtsu/blob/main/Security%2B%20Card%20.pdf) 
-- AWS Cloud Practitioner (Expected January 2023)
+-	Microsoft Azure Fundamentals (Exp. 01/2023)
+-	Microsoft Azure Developer Associate (Exp. 04/2023)
+-	DevOps Engineer Expert (In pursuit)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Eric Thomas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
