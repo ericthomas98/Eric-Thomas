@@ -3,6 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - [Trivia Game](https://github.com/ericthomas98/Undergraduate-Coursework/tree/main/Java/TriviaGame)
+- [Active Directory Home Lab](https://github.com/ericthomas98/Recreational-Software-Development/tree/main/PowerShell/AD-HomeLab)
 
 <h2>📃 Certifications</h2>
 
