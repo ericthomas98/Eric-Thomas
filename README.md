@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eric! <a href="https://github.com/ericthomas98">Programmer</a>, <a href="https://www.linkedin.com/in/ericthomas98/">Aspiring Cloud Security Engineer
+<h1>Hi, I'm Eric! <a href="https://github.com/ericthomas98">Programmer</a>, <a href="https://www.linkedin.com/in/ericthomas98/">Aspiring DevSecOps Engineer
 </a>, <a href="https://github.com/ericthomas98">Cyber Security Enthusiast</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
