@@ -9,9 +9,7 @@
 <h2>📃 Certifications</h2>
 
 - [CompTIA Security +](https://github.com/ericthomas98/Samohtsu/blob/main/Security%2B%20Card%20.pdf) 
--	Microsoft Azure Fundamentals (Exp. 01/2023)
--	Microsoft Azure Developer Associate (Exp. 04/2023)
--	DevOps Engineer Expert (In pursuit)
+-	Currently Pursuing CCNA
 
 <h2> 🤳 Connect with me:</h2>
 
